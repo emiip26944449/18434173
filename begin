@@ -1,3 +1,4 @@
+} catch (IOException e) {
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public static void main(String[] args)
 Properties props = new Properties();
